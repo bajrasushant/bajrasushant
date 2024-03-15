@@ -4,9 +4,9 @@
  <img alt="GIF" height="200px" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 </div>
 
-- 🔭 I’m currently working on **L2-ToDoDo**
+- 🔭 I’m currently working on **ecommerce project**
 
-- 🌱 I’m currently learning **Laravel as well as Frontend Frameworks**
+- 🌱 I’m currently learning **Javascript frameworks**
 
 - 📫 How to reach me **bajra.sushant@gmail.com**
 </div>
