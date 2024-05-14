@@ -3,11 +3,10 @@
 <div align="center">
  <img alt="GIF" height="200px" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 </div>
-
+<!--
 - 🔭 I’m currently working on **ecommerce project**
-
 - 🌱 I’m currently learning **Javascript frameworks**
-
+-->
 - 📫 How to reach me **bajra.sushant@gmail.com**
 </div>
 <h3> 🛠 &nbsp;Languages and Tools</h3>
