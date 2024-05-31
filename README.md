@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **ecommerce project**
 - 🌱 I’m currently learning **Javascript frameworks**
 -->
-- 📫 How to reach me **bajra.sushant@gmail.com**
+- 📫 How to reach me <b>bajra.sushant@gmail.com</b>
 </div>
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
