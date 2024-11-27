@@ -20,12 +20,20 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MSSQL](https://img.shields.io/badge/-MSSQL-333333)
+
+
 - ⚙️ &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-333333?style=flat)
 
 <a href="https://github.com/bajrasushant">
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bajrasushant&theme=buefy&show_icons=true" /> -->
